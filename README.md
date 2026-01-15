@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Ishwari%20Ruikar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f2027,100:2c5364&height=160&section=header" />
 
+<h1>Ishwari Ruikar</h1>
 <h3>AWS Cloud & DevOps Engineer</h3>
 
 <p>
-Building scalable cloud infrastructure ☁️ | Automating deployments ⚙️ | Learning every day 🚀
+Building scalable cloud infrastructure ☁️ | Automating deployments ⚙️ | Continuous Learning 🚀
 </p>
 
 <p>
@@ -29,10 +30,10 @@ Building scalable cloud infrastructure ☁️ | Automating deployments ⚙️ | 
 <div style="background:#0d1117;padding:20px;border-radius:10px">
 
 - 🎓 **BCA Graduate (2024)** – Savitribai Phule Pune University  
-- ☁️ AWS Cloud & DevOps Engineer with real project experience  
-- 🐳 Hands-on with **Docker, Kubernetes, CI/CD & Linux**  
-- 🧩 Interested in **Infrastructure as Code & Cloud Monitoring**  
-- 🌱 Currently learning **Advanced AWS & DevOps practices**
+- ☁️ AWS Cloud & DevOps Engineer with hands-on project experience  
+- 🐳 Experienced with **Docker, Kubernetes, CI/CD & Linux**  
+- 🧩 Interested in **Infrastructure as Code, Monitoring & Automation**  
+- 🌱 Currently improving **AWS architecture & DevOps tools**
 
 </div>
 
@@ -48,33 +49,33 @@ Building scalable cloud infrastructure ☁️ | Automating deployments ⚙️ | 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects (Highlights)
 
 <div style="display:flex;flex-wrap:wrap;gap:15px">
 
 <div style="background:#161b22;padding:15px;border-radius:10px;width:45%">
 <b>☁️ AWS Learnings</b><br>
-Hands-on practice with EC2, S3, IAM, VPC, RDS, CloudWatch
+Hands-on AWS services: EC2, S3, IAM, VPC, RDS, CloudWatch
 </div>
 
 <div style="background:#161b22;padding:15px;border-radius:10px;width:45%">
 <b>⚙️ DevOps Learnings</b><br>
-CI/CD pipelines, Jenkins, Docker, Kubernetes fundamentals
+Linux, Docker, Jenkins, CI/CD pipelines & automation
 </div>
 
 <div style="background:#161b22;padding:15px;border-radius:10px;width:45%">
-<b>🐳 Flask App with Docker</b><br>
-Containerized Python application using Docker
+<b>🐳 Two-Tier Flask App</b><br>
+Dockerized Flask + MySQL using Docker Compose
 </div>
 
 <div style="background:#161b22;padding:15px;border-radius:10px;width:45%">
-<b>📊 Monitoring on Kubernetes</b><br>
-Prometheus & Grafana deployed using Terraform & Helm
+<b>📊 Kubernetes Monitoring</b><br>
+Prometheus & Grafana with Terraform & Helm
 </div>
 
 <div style="background:#161b22;padding:15px;border-radius:10px;width:45%">
 <b>🌍 Roamio (LEMP + Python)</b><br>
-Travel matchmaking platform using LEMP stack
+Cloud-hosted travel matchmaking platform
 </div>
 
 <div style="background:#161b22;padding:15px;border-radius:10px;width:45%">
@@ -83,6 +84,23 @@ AI-based hand gesture mouse using OpenCV & MediaPipe
 </div>
 
 </div>
+
+---
+
+## 📂 My GitHub Repositories
+
+| Repository | Description |
+|----------|------------|
+| **ishwariruikar** | Professional GitHub profile showcasing my journey as an AWS Cloud & DevOps Engineer, including projects, skills, and continuous learning. |
+| **2tier-flask-app-docker** | Production-ready two-tier Flask application using Docker, MySQL, and Docker Compose. |
+| **devops_learnings** | Notes, commands, and hands-on DevOps learnings covering Linux, Docker, CI/CD, and cloud concepts. |
+| **flask-app-docker** | Simple Flask web application containerized using Docker and Dockerfile. |
+| **2tier-docker-wordpress** | Two-tier WordPress application deployed using Docker with MySQL backend and persistent storage. |
+| **AWS_Learnings** | Hands-on AWS projects and learning notes covering core AWS services and architecture. |
+| **scp_mini_project** | Mini project focused on Linux server setup and system administration fundamentals. |
+| **petshelter_LEMP_project** | Pet Shelter Management System hosted on AWS EC2 using the LEMP stack. |
+| **LEMP_Python_roamio_project** | Python-based web application deployed on AWS EC2 using LEMP stack. |
+| **Virtual_mouse_python** | AI-based virtual mouse system using Python, OpenCV, and MediaPipe. |
 
 ---
 
@@ -112,7 +130,10 @@ AI-based hand gesture mouse using OpenCV & MediaPipe
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2c5364,100:0f2027&height=80&section=footer&animation=fadeIn" />
-<b>⭐ If you like my work, consider starring my repositories!</b>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2c5364,100:0f2027&height=60&section=footer" />
+
+<b>⭐ If you like my work, feel free to star my repositories!</b>
+
 </div>
 
