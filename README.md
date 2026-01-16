@@ -175,5 +175,7 @@ Implemented AWS Glue fallback for failure handling.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient&section=footer" />
+
+  
 <strong>⭐ If you like my work, feel free to star my repositories!</strong>
 </div>
